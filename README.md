@@ -1,19 +1,24 @@
-# marketplace
+## marketplace
 
-1. Uruchom backend
+Funkcje:
 
-Repozytorium API:
-https://github.com/DanielSikora/APICars
+wyświetlanie listy samochodów (GET)
+
+dodawanie ogłoszeń (POST)
+
+usuwanie ogłoszeń (DELETE)
+
+filtrowanie po marce i modelu
+
+# Uruchomienie
+
+Zainstaluj npm:
 
 npm install
+
+Uruchom aplikację:
+
 npm run dev
 
-API działa na:
-http://localhost:5005/api/cars
-
-2. Uruchom frontend
-
-W folderze projektu:
-
-npm install
-npm run dev
+Aplikacja działa domyślnie na:
+http://localhost:5173
