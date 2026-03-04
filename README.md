@@ -2,13 +2,13 @@
 
 ### Funkcje:
 
-wyświetlanie listy samochodów (GET)
+- wyświetlanie listy samochodów (GET)
 
-dodawanie ogłoszeń (POST)
+- dodawanie ogłoszeń (POST)
 
-usuwanie ogłoszeń (DELETE)
+- usuwanie ogłoszeń (DELETE)
 
-filtrowanie po marce i modelu
+- filtrowanie po marce i modelu
 
 ### Uruchomienie
 
