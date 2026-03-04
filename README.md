@@ -1,4 +1,4 @@
-## marketplace
+# Marketplace
 
 Funkcje:
 
@@ -10,7 +10,7 @@ usuwanie ogłoszeń (DELETE)
 
 filtrowanie po marce i modelu
 
-# Uruchomienie
+## Uruchomienie
 
 Zainstaluj npm:
 
