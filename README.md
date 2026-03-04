@@ -1,6 +1,6 @@
 # Marketplace
 
-Funkcje:
+### Funkcje:
 
 wyświetlanie listy samochodów (GET)
 
@@ -10,7 +10,7 @@ usuwanie ogłoszeń (DELETE)
 
 filtrowanie po marce i modelu
 
-## Uruchomienie
+### Uruchomienie
 
 Zainstaluj npm:
 
